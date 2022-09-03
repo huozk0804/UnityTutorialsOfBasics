@@ -1,4 +1,4 @@
-Shader "_2Graph/Point Surface"
+Shader "Graph/Point Surface"
 {
     Properties
     {
